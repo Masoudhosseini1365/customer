@@ -3,7 +3,7 @@ $(document).on('click', function (e) {
         if ($('#listOfCar').length) {
             
                 window.location = "https://esale.ikco.ir/#!/searchcars?cca=0&csb=1&ccc=0&cpd=0";
-                window.location = "https://esale.ikco.ir/#!/searchcars?cca=0&csb=3&ccc=0&cpd=0";
+                window.location = "https://esale.ikco.ir/#!/searchcars?cca=0&csb=2&ccc=0&cpd=0";
             
         }
          if ($('[name=loginForm]').length) {
